@@ -20,10 +20,6 @@ _Insert screenshots of the app's interface showcasing task creation, image uploa
 3. Connect the app to Firebase by adding your Firebase configuration.
 4. Run the app on an emulator or a physical device.
 
-## Firebase Setup
-
-_To be updated with detailed instructions on how to set up Firebase integration._
-
 # Save Department
 ![Adsız](https://user-images.githubusercontent.com/97099484/153731117-55e29ede-5360-4500-adb7-7ce590b38817.png)
 
